@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/retard-integration-1/static/css/main.29cefe61.css",
+    "main.js": "/retard-integration-1/static/js/main.e9cf90fb.js",
+    "static/js/787.e3b27331.chunk.js": "/retard-integration-1/static/js/787.e3b27331.chunk.js",
+    "static/media/header.jpeg": "/retard-integration-1/static/media/header.cd2d89f0720661f3d30c.jpeg",
+    "static/media/card6.jpeg": "/retard-integration-1/static/media/card6.9ad6f25455afb2266a19.jpeg",
+    "static/media/card5.jpeg": "/retard-integration-1/static/media/card5.4caa02dce14135e5d25d.jpeg",
+    "static/media/capimg.png": "/retard-integration-1/static/media/capimg.f733427759f72c2932f2.png",
+    "static/media/card3.jpeg": "/retard-integration-1/static/media/card3.7c5a9f46de89c7796510.jpeg",
+    "static/media/card1.jpeg": "/retard-integration-1/static/media/card1.e5531863551b201dc73c.jpeg",
+    "static/media/card4.jpeg": "/retard-integration-1/static/media/card4.06334114fa0419a8bf28.jpeg",
+    "static/media/card2.jpeg": "/retard-integration-1/static/media/card2.aaed45eb576302b02df3.jpeg",
+    "static/media/mask.png": "/retard-integration-1/static/media/mask.138914179796d09db927.png",
+    "static/media/Chart Linechart.png": "/retard-integration-1/static/media/Chart Linechart.673e1d1a3b2ec9e518da.png",
+    "static/media/Group 1.svg": "/retard-integration-1/static/media/Group 1.651344c9bd429a055cd10e68f52652cc.svg",
+    "static/media/Group.svg": "/retard-integration-1/static/media/Group.e41c911a02463cd9b48e16ccb6e17823.svg",
+    "index.html": "/retard-integration-1/index.html",
+    "static/media/Subtract.svg": "/retard-integration-1/static/media/Subtract.8e5c3343c0a8acc6c4bfbe78003a23b1.svg",
+    "main.29cefe61.css.map": "/retard-integration-1/static/css/main.29cefe61.css.map",
+    "main.e9cf90fb.js.map": "/retard-integration-1/static/js/main.e9cf90fb.js.map",
+    "787.e3b27331.chunk.js.map": "/retard-integration-1/static/js/787.e3b27331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cefe61.css",
+    "static/js/main.e9cf90fb.js"
+  ]
+}
